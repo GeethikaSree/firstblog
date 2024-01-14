@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Introduction to Node.js",
+        "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+    },
+    {
+        "title": "Building a Blog with Express",
+        "content": "Learn how to build a simple blog website using Express and EJS."
+    }
+]
